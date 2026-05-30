@@ -114,7 +114,6 @@ Logic synthesis is performed using Quartus II.
 
 Synthesis outputs include:
 - RTL schematic
-- Technology mapped design
 - Logic synthesis report
 
 ---
